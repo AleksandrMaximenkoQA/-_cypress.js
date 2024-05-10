@@ -1,0 +1,5 @@
+{
+"otvet":"#messageHeader",
+"krestik":"#exitMessageButton > .exitIcon",
+"link":".link"
+}

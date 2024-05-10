@@ -1,0 +1,9 @@
+{
+    "zagolovok":"#form > .header",
+    "login":"#mail",
+    "password":"#pass",
+    "enter":"#loginButton",
+    "recovery":"#forgotEmailButton",
+    "link":".link"
+
+}
